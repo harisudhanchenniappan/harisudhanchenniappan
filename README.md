@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari Sudhan A C</h1>
 <h3 align="center">An enthusiastic frontend developer from India, committed to building engaging and user-friendly web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisudhanchenniappan" alt="harisudhanchenniappan" /></a> </p>
+
 
 - 🔭 I’m currently working on **web app development.**
 
