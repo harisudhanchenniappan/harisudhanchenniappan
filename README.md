@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web app development.**
 
-- 🌱 I’m currently learning **react, express**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://hari-sudhan-1611.netlify.app/](https://hari-sudhan-1611.netlify.app/)
 
